@@ -1,4 +1,4 @@
-# Election-Analysis
+# Election-Analysis 
 The main purpose of this project is to complete the local congressional election audit for the Colorado Board of Election. In this project, our final Python script will need to be able to deliver the following information when the script is run to complete the audit:
 a) Total number of votes cast
 b) A complete list of candidates who received votes
